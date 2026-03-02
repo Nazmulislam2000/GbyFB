@@ -20,4 +20,4 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ python2 GbyFB.py
+$ python3 GbyFB.py

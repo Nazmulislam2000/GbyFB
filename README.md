@@ -6,7 +6,7 @@ $ pkg update && pkg upgrade
 
 $ pkg install git
 
-$ pkg install python2
+$ pkg install python3
 
 $ pkg install curl
 
@@ -16,8 +16,8 @@ $ cd GbyFB
 
 $ ls
 
-$ pip2 install requests
+$ pip3 install requests
 
-$ pip2 install mechanize
+$ pip3 install mechanize
 
-$ python2 GbyFB.py
+$ python3 GbyFB.py
